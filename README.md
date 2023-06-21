@@ -1,4 +1,4 @@
-# Image Classification with Convolutional Neural Networks
+# Micro Organisms Classification with Convolutional Neural Networks
 
 ## Overview
 This project focuses on classifying microorganisms using deep learning models. The goal is to train and evaluate two different models: one without residual connections and one with residual connections. The project is implemented in a Jupyter Notebook environment.
